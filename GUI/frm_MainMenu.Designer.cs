@@ -40,9 +40,9 @@ namespace Quan_ly_cua_hang.GUI
             // 
             this.button1.Location = new System.Drawing.Point(168, 136);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(134, 30);
+            this.button1.Size = new System.Drawing.Size(164, 74);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Quản lý máy tính";
+            this.button1.Text = "Quản lý xe điện";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -58,11 +58,11 @@ namespace Quan_ly_cua_hang.GUI
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(508, 135);
+            this.button3.Location = new System.Drawing.Point(482, 135);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(134, 33);
+            this.button3.Size = new System.Drawing.Size(160, 75);
             this.button3.TabIndex = 3;
-            this.button3.Text = "Bán máy tính";
+            this.button3.Text = "Bán xe điện";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
@@ -70,7 +70,7 @@ namespace Quan_ly_cua_hang.GUI
             // 
             this.button2.Location = new System.Drawing.Point(168, 231);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(134, 33);
+            this.button2.Size = new System.Drawing.Size(164, 66);
             this.button2.TabIndex = 4;
             this.button2.Text = "Quản lý khách hàng";
             this.button2.UseVisualStyleBackColor = true;
@@ -78,9 +78,9 @@ namespace Quan_ly_cua_hang.GUI
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(508, 231);
+            this.button4.Location = new System.Drawing.Point(482, 231);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(134, 33);
+            this.button4.Size = new System.Drawing.Size(160, 66);
             this.button4.TabIndex = 5;
             this.button4.Text = "Thống kê doanh thu";
             this.button4.UseVisualStyleBackColor = true;
